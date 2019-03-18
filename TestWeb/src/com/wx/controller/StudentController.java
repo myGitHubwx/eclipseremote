@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import com.wx.service.FactoryService;
 import com.wx.service.StudentService;
-//adfs
+//adfswx
 public class StudentController extends HttpServlet{
 
 	StudentService studentService=FactoryService.getStudentService();
